@@ -1,0 +1,41 @@
+{
+  "name": "chatapp-v2",
+  "version": "1.0.0",
+  "description": null,
+  "keywords": [
+    "apollo",
+    "appsync",
+    "react"
+  ],
+  "main": "src/index.js",
+  "dependencies": {
+    "@material-ui/core": "3.6.2",
+    "@material-ui/icons": "3.0.1",
+    "aws-amplify": "1.1.17",
+    "aws-amplify-react": "2.2.4",
+    "aws-appsync": "1.7.0",
+    "aws-appsync-react": "1.2.5",
+    "enzyme": "3.8.0",
+    "enzyme-adapter-react-16": "1.7.1",
+    "graphql-tag": "2.10.1",
+    "react": "16.8.6",
+    "react-apollo": "2.5.4",
+    "react-dom": "16.5.2",
+    "react-router-dom": "4.3.1",
+    "react-scripts": "2.0.3",
+    "react-web-gifted-chat": "0.6.7"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "start": "react-scripts start",
+    "build": "react-scripts build",
+    "test": "react-scripts test --env=jsdom",
+    "eject": "react-scripts eject"
+  },
+  "browserslist": [
+    ">0.2%",
+    "not dead",
+    "not ie <= 11",
+    "not op_mini all"
+  ]
+}
